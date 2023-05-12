@@ -1,3 +1,11 @@
+---
+layout:       post
+title:        "Java系列"
+author:       "BeicC"
+header-style: text
+catalog:      true
+tags:
+---
 # 计算机基础
 * 编码 [link](https://www.bilibili.com/video/BV1xD4y1y7yc/?p=3&share_source=copy_web&vd_source=06916e4965d23cba05dd9e3692d8ca39)
 编码方式就是一张表：假如我想在计算机里面存`a`，那该如何用二进制表示`a`呢？
